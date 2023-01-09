@@ -16,3 +16,5 @@ WHERE
         'electronics',
         'telephony')
 GROUP BY pcne;
+duczguzgrafz+cw
+wefirufhqöirug
