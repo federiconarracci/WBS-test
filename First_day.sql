@@ -19,7 +19,3 @@ AS firstname
 FROM authors;
 SELECT job_id AS id, job_desc AS description 
 FROM jobs;
-SELECT DISTINCT(au_lname)
-FROM publications.authors;
-SELECT DISTINCT title_id 
-FROM sales;
